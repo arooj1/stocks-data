@@ -5,3 +5,5 @@ create stocks dashboard
 
 - the timestamp in the data is inside the column `t`. 
 - for data cleaning
+
+- Data formatting
